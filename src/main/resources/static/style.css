@@ -1,0 +1,33 @@
+body {
+    font-family: "Asap" !important;
+    background-color: #393e46 !important;
+    color: #eeeeee !important;
+}
+
+.header {
+    background-color: #222831;
+    border-radius: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.button-container {
+    background-color: #222831;
+    border-radius: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.main-btn-style {
+    background: #0092ca !important;
+    color: #eeeeee !important;
+}
+
+.main-btn-style:hover {
+    background: #393e46 !important;
+    color: #0092ca !important;
+}
+
+.student-table {
+    color: #eeeeee;
+}
